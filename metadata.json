@@ -1,0 +1,7 @@
+{
+  "name": "Lumière Noël: Gesture 3D Tree",
+  "description": "A cinematic, gesture-controlled 3D Christmas tree experience using Three.js and MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
